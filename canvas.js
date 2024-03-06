@@ -23,11 +23,11 @@
     
     /*Initialize flowers*/
     body.addEventListener("click",function(ev){
-      drawFlowers()
+      // drawFlowers()
       playMusic()
     })
-    window.onload = drawFlowers
-    window.onresize = drawFlowers
+    // window.onload = drawFlowers
+    // window.onresize = drawFlowers
   
     
     /*Flower flunctions*/
